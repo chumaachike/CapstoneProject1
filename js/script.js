@@ -65,7 +65,7 @@ const artists = [
 const speakersPlaceHolder = document.querySelector('#speakers .persons');
 
 artists.forEach((artist, index) => {
-    speakersPlaceHolder.innerHTML += `
+  speakersPlaceHolder.innerHTML += `
   <div class="person ${index > 1 ? 'mobile-hide' : ''}">
     <div class="person-graphic">
       <img src="images/${artist.image}" alt="" />
@@ -91,4 +91,3 @@ moreSpeakerButton.addEventListener(
     moreSpeakerButton.style.display = 'none';
   },
 );
-
