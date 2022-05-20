@@ -1,19 +1,20 @@
-# mobile-portfolio
+# capstone-project
 
- This is a mobile version skelton version of a portfolio application 
+ This is the fully developed project of fulfilling all the milstones required in the capstone project
 
 
 ## Built With
 
 - HTML
 - CSS
+-Javascript 
 
 
 ## Live Demo 
 
-[Portfolio live demo](https://chumaachike.github.io/CapstoneProject1/)
+[capstone live demo](https://chumaachike.github.io/CapstoneProject1/)
 
-
+[video demo](https://www.loom.com/share/d3b365ff235d40ad8aac3397cf29bc60)
 
 
 
@@ -57,6 +58,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+-Original Designer [Cindy Shin](https://www.behance.net/adagio07)
 - Microverse team
 - Inspiration
 - etc
