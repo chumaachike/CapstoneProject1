@@ -128,11 +128,13 @@ header nav.show {
 
 #nav-bar #menu a {
   color: var(--nutral);
+
   /* border-bottom: 1px solid #fff1; */
+
   padding: 1.5rem 3rem;
   font-weight: 300;
 }
-.hhh{
+.hhh {
   display: none;
 }
 
@@ -586,7 +588,7 @@ footer .branding {
   z-index: 1;
 }
 
-.hhh{
+.hhh {
   border: 4px solid #ec5242;
 }
 
